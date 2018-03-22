@@ -170,7 +170,7 @@ GEM
     listen (3.0.3)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
-    loofah (2.0.2)
+    loofah (2.2.1)
       nokogiri (>= 1.5.9)
     lumberjack (1.0.9)
     mail (2.6.3)
